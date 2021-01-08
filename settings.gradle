@@ -1,0 +1,3 @@
+rootProject.name = 'daily-news'
+
+include 'daily-news-batch'
